@@ -16,7 +16,6 @@ To run this project locally, download the code and install all dependencies by r
 
 The app can be started by running ```node app.js```.
 
-Alternatively, you can access the live version of the web application by clicking on the following link: https://vadymfes.github.io/ejs-Blog/
 
 ## Features
 * View all posts on the homepage
